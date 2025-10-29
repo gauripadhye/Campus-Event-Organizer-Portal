@@ -1,5 +1,7 @@
 # Campus-Event-Organizer-Portal
-Getting Started with Create React App
+Developed an ML-based automated Campus Event Organizing portal, ‘Campus Event Organizer’, designed to streamline the management and promotion of college events. The system leverages Optical Character Recognition (OCR), Text Classification, and Machine Learning models to automate event categorization and content handling. It significantly enhances the efficiency of event planning, submission, and promotional workflows across the campus, providing a centralized and intelligent platform for students and organizers.
+
+# Getting Started with Create React App
 
 This project was bootstrapped with Create React App.
 
